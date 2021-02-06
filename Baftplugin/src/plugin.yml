@@ -1,0 +1,9 @@
+name: BaftSpawn
+version: 1.0
+author: Hati
+main: me.hati.baft.Main
+
+commands: 
+  creepspawn: 
+    aliases: [cs]
+    description: Spawn 10 Creeps
